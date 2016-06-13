@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    printf("测试1");
 }
 
 - (void)didReceiveMemoryWarning {
