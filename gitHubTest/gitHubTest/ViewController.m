@@ -17,11 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-<<<<<<< HEAD
-    printf("JOMEN-DOSON");
-=======
-    printf("JOMEN");
->>>>>>> b4cf38f4514101b2cd95d6f79a23d274a4222d13
+    printf("哈哈哈哈哈");
+
 }
 
 - (void)didReceiveMemoryWarning {
