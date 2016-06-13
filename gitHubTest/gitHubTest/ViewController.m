@@ -18,12 +18,10 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     printf("哈哈哈哈哈");
-
 }
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
-
 @end
