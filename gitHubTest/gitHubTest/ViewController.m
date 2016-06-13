@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    printf("DOSON-JOMEN");
+    printf("最后一次测试修改");
 }
 
 - (void)didReceiveMemoryWarning {
