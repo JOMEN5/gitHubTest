@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    printf("哈哈哈哈哈");
+    printf("最后一次测试修改");
 }
 
 - (void)didReceiveMemoryWarning {
